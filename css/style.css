@@ -1,0 +1,35 @@
+#home {
+	background: #db2032;
+	color: white;
+}
+
+.bg-red {
+	background: #db2032;
+	color: white;
+}
+
+.nav-link{
+	color: #ffffff !important;
+}
+
+.nav-link:hover{
+	color: #f1f1f1 !important;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+.input-group {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+img {
+	border-radius: 8px;
+}
